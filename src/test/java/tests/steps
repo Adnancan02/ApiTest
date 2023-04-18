@@ -1,0 +1,7 @@
+
+
+ //1- Request url ve body olustur
+ //2- soruda varsa expected pojoDummyExampleData olustur
+//3-Response olustur, request gonderip sonucu response'a ata
+//4-Assertion
+ //expectedResponseBodyPojo  <===>  responsePojo
