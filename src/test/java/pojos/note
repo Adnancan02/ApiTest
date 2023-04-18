@@ -1,0 +1,5 @@
+Pojo olusturma Adimlari
+//1- Tum variable’lari "private" olarak olusturalim
+//2- Tum variable’lar icin getter( ) and setter( ) metodlari olusturalim
+//3- Tum parametreleri iceren bir constructor olusturalim 4) Default constructor (parametresiz) olusturalim
+//5- toString( ) metodu olusturalim
